@@ -4,4 +4,4 @@
 ### Membuat Paragraf
 kode tag untuk pragraf adalah '<p>'
 ini adalah tampilannya
-![img]Lab1web1/logo-pelita.png
+![gambar 1](Lab1web1/logo-pelita.png)
